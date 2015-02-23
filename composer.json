@@ -1,5 +1,5 @@
 {
-    "name": "themainframe/vote-scraper",
+    "name": "themainframe/php-rfc-vote-scraper",
     "description": "PHP RFC voting data scraper",
     "require": {
         "symfony/dom-crawler": "~3.0@dev",
