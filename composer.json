@@ -18,5 +18,6 @@
             "VoteScraper\\": "src/"
         }
     },
+    "bin": ["bin/vote-scraper"],
     "minimum-stability": "dev"
 }
